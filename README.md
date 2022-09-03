@@ -8,7 +8,9 @@
 ![logo Verona](https://user-images.githubusercontent.com/112780774/188287626-f64455b7-d68c-4294-887c-ebfc30c8fe7c.png)
 #### A missão da Verona Tecnologia é “oferecer um meio de aquisição de energia solar sustentável e econômica de forma duradoura, para a população e organizações.”
 
-#### Será criado um sistema para o serviço hoteleiro, neste programa terá um diferencial, a economia de energia. Com ele, terá todos os quartos com cores verdes, assim que ocupados as cores mudarão para vermelho. Ele terá um sistema inteligente que exemplo se o andar estiver somente um quarto disponível ele ocupará este quarto sem que ocupe apenas um quarto em outro andar, através de tomadas inteligentes ligadas ao sistema as funções que puderem ser desligadas, como luzes, ar condicionado serão desligadas, assim será implantado sensores de presença priorizando a economia de energia, diante disso com a utilização da energia solar junto com esse sistema o dono do estabelecimento terão uma redução em sua conta e uma otimização em suas economias.
+#### Será criado um sistema para o serviço hoteleiro, neste programa terá um diferencial, a economia de energia.
+####Com ele, terá todos os quartos com cores verdes, assim que ocupados as cores mudarão para vermelho. 
+####Ele terá um sistema inteligente que exemplo se o andar estiver somente um quarto disponível ele ocupará este quarto sem que ocupe apenas um quarto em outro andar, através de tomadas inteligentes ligadas ao sistema as funções que puderem ser desligadas, como luzes, ar condicionado serão desligadas, assim será implantado sensores de presença priorizando a economia de energia, diante disso com a utilização da energia solar junto com esse sistema o dono do estabelecimento terão uma redução em sua conta e uma otimização em suas economias.
 
 Integrantes: João Vitor Alves, Matheus Chincoviaki, Heloisa Riffter Stadler, Vanessa Galvão, Izabelle Guimaraes
 
