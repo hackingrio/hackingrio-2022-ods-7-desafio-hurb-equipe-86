@@ -27,6 +27,4 @@ A empresa Verona terá o intuito de proporcionar aos nossos clientes praticidade
 
 #### Informações adicionais 
 
-Atravez de energia solar, o dono da hotelaria podera realizar diminuição de gastos em periodos fora da temporada, Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
-
-Tenha em mente que seu trabalho nesse repositório será avaliado por um Juri Técnico, informações sobre a tecnologia usada também são bem vindas. 
+Atravez de energia solar, o dono da hotelaria podera realizar diminuição de gastos em periodos fora da temporada. Com ajuda do sistema e das placas solares, as hotelarias conseguiram manter uma grande economia e também através disso ajudará ao meio ambiente, diminuindo o uso de fontes que produz CO2, e também estimulando parceiros e concorrentes aderir esse produto.
