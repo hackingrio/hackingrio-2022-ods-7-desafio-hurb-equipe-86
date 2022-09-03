@@ -2,7 +2,7 @@
 >Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
 
 # Paineis Fotovoltaicos - 2022
-### Verona Tecnologia / Nome da ODS 07 - Desafio Instalação de Paineis solares e Monitoramento de gastos de energia
+### Verona Tecnologia / Desafio ODS 07 - Instalação de Paineis solares e Monitoramento de gastos de energia
 
 #### Apresentação 
 ![logo Verona](https://user-images.githubusercontent.com/112780774/188287626-f64455b7-d68c-4294-887c-ebfc30c8fe7c.png)
