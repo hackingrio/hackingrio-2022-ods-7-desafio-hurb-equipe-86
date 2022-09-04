@@ -8,23 +8,20 @@
 ![logo Verona](https://user-images.githubusercontent.com/112780774/188287626-f64455b7-d68c-4294-887c-ebfc30c8fe7c.png)
 #### A missão da Verona Tecnologia é “oferecer um meio de aquisição de energia solar sustentável e econômica de forma duradoura, para a população e organizações.”
 
-Será criado um sistema para o serviço hoteleiro, neste programa terá um diferencial, a economia de energia. Com ele, terá todos os quartos com cores verdes, assim que ocupados as cores mudarão para vermelho. Ele terá um sistema inteligente que exemplo se o andar estiver somente um quarto disponível ele ocupará este quarto sem que ocupe apenas um quarto em outro andar, através de tomadas inteligentes ligadas ao sistema as funções que puderem ser desligadas, como luzes, ar condicionado serão desligadas, assim será implantado sensores de presença priorizando a economia de energia, diante disso com a utilização da energia solar junto com esse sistema o dono do estabelecimento terão uma redução em sua conta e uma otimização em suas economias.
+Será criado um sistema para o serviço hoteleiro, este programa terá um diferencial, a economia de energia. Com ele, terá todos os quartos com cores verdes, assim que ocupados as cores mudarão para vermelho. Ele terá um sistema inteligente que exemplo se o andar estiver somente um quarto disponível ele ocupará este quarto sem que ocupe apenas um quarto em outro andar, através de tomadas inteligentes ligadas ao sistema as funções que puderem ser desligadas, como luzes, ar condicionado serão desligadas, assim será implantado sensores de presença priorizando a economia de energia, diante disso com a utilização da energia solar junto com esse sistema o dono do estabelecimento terão uma redução em sua conta e uma otimização em suas economias.
 
 A missão da Verona Tecnologia é “oferecer um meio de aquisição de energia solar sustentável e econômica de forma duradoura, para a população e organizações.”
 
-Integrantes: João Vitor Alves, Matheus Chincoviaki, Heloisa Riffter Stadler, Vanessa Galvão, Izabelle Guimaraes
-
+Integrantes: João Vitor Alves, Matheus Chincoviaki, Heloisa Riffter Stadler, Vanessa Galvão.
 #### O Produto
 
 A empresa Verona terá o intuito de proporcionar aos nossos clientes praticidade, trazendo agilidade, segurança e ofertando produtos de alta qualidade, entregando a eles no conforto da sua casa ou empresa.
-#### ​O empreendimento contará como os principais exercícios: a venda e instalação de painéis fotovoltaicos, com isto concentraremos nossos esforços de vendas em campanhas de ‘’marketing’’ para ganhar espaço no mercado e fidelizar os clientes.
+#### ​O empreendimento contará com os principais exercícios: a venda e instalação de painéis fotovoltaicos, com isto concentraremos nossos esforços de vendas em campanhas de ‘’marketing’’ para ganhar espaço no mercado e fidelizar os clientes.
 #### ​Ofereceremos um serviço de planejamento para o consumidor, verificando os gastos mensais de energia elétrica ou expansão da mesma e também a localização de sua habitação para analisar e efetuar o melhor projeto, desta forma maximizando a captação de energia e suprindo as necessidades de consumo.
 #### ​Posteriormente manter estes laços para ofertar serviços como manutenções e higienização dos painéis. As formas de atendimentos se darão por meio do site e ligações para melhor atender nossa clientela.
 #### ​Além desses fatores citados anteriormente, faremos parcerias que auxiliarão em nossas vendas, apresentando os nossos produtos em construtoras, lojas de materiais de construção entre outras do segmento, para maximizar o conhecimento do nosso produto no momento que o consumidor estará adaptando sua residência.
-#### Ofereceremos painéis fotovoltaicos com tecnologias divergentes para melhor atender nossos clientes, ambos são produzidos com silício cristalizado, porém existem duas variantes, a Monocristal nos; os benefícios de painéis deste modelo são sua maior eficiência e a necessidade de um espaço menor para sua instalação. Porém o preço do produto é maior. E os Policristalinos; possuem um custo menor, porém a eficiência é reduzida e o espaço para instalação deve ser maior.
-
-
+#### Ofereceremos painéis fotovoltaicos com tecnologias divergentes para melhor atender nossos clientes, ambos são produzidos com silício cristalizado, porém existem duas variantes, a Monocristal nos; os benefícios de painéis deste modelo são sua maior eficiência e a necessidade de um espaço menor para sua instalação. Porém, o preço do produto é maior. E os Policristalinos; possuem um custo menor, mas a eficiência é reduzida e o espaço para instalação deve ser maior.
 
 #### Informações adicionais 
 
-Atravez de energia solar, o dono da hotelaria podera realizar diminuição de gastos em periodos fora da temporada. Com ajuda do sistema e das placas solares, as hotelarias conseguiram manter uma grande economia e também através disso ajudará ao meio ambiente, diminuindo o uso de fontes que produz CO2, e também estimulando parceiros e concorrentes aderir esse produto.
+Através de energia solar, o dono da hotelaria podera realizar diminuição de gastos em periodos fora da temporada. Com ajuda do sistema e das placas solares, as hotelarias conseguiram manter uma grande economia e também através disso ajudará ao meio ambiente, diminuindo o uso de fontes que produz CO2, e também estimulando parceiros e concorrentes aderir esse produto.
