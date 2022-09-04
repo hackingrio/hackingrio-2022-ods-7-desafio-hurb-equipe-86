@@ -12,7 +12,7 @@ Será criado um sistema para o serviço hoteleiro, este programa terá um difere
 
 A missão da Verona Tecnologia é “oferecer um meio de aquisição de energia solar sustentável e econômica de forma duradoura, para a população e organizações.”
 
-Integrantes: João Vitor Alves, Matheus Chincoviaki, Heloisa Riffter Stadler, Vanessa Galvão.
+Integrantes: João Vitor Alves, Matheus Chincoviaki, Heloisa Riffter Stadler, Vanessa Galvão, Izabelle Guimaraes.
 #### O Produto
 
 A empresa Verona terá o intuito de proporcionar aos nossos clientes praticidade, trazendo agilidade, segurança e ofertando produtos de alta qualidade, entregando a eles no conforto da sua casa ou empresa.
